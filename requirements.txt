@@ -1,0 +1,11 @@
+Pint >= 0.25
+numpy >= 2.0
+pandas >= 2.0
+requests >= 2.32
+scipy >= 1.17
+gspread <= 5.12.0
+gspread_pandas <= 3.2.2
+bottleneck >= 1.6
+eep153_tools
+fooddatacentral >= 1.0.11
+python-gnupg

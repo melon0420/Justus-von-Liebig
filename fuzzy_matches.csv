@@ -1,0 +1,176 @@
+p2_food,matched_to,score
+white flour,"Egg, white, raw, fresh",86
+rice long grain ,"Babyfood, dinner, turkey and rice, strained",86
+spaghetti ,"Babyfood, dinner, spaghetti and tomato and meat, junior",90
+white bread,"Fast foods, submarine sandwich, cold cut on white bread with lettuce and tomato",90
+whole wheat bread ,"Bread, pita, whole-wheat",95
+chocolate chip cookie ,"Milk, chocolate, fluid, commercial, whole, with added vitamin A and vitamin D",86
+ground chuck beef ,"Spices, mustard seed, ground",86
+ground beef ,"Fast foods, nachos, with cheese, beans, ground beef, and tomatoes",90
+lean ground beef ,"Spices, cinnamon, ground",86
+stew beef ,"Babyfood, meat, beef, strained",86
+"steak, round","Tomatoes, red, ripe, raw, year round average",86
+"steak, sirloin","Beef, flank, steak, separable lean only, trimmed to 0"" fat, choice, raw",86
+bacon,"Animal fat, bacon grease",90
+pork chops ,"Soup, bean with pork, canned, condensed",86
+ham,"Ham, chopped, canned",90
+"chicken legs, bone-in","Babyfood, meat, chicken, strained",86
+grade A eggs ,"Milk, reduced fat, fluid, 2% milkfat, with added vitamin A and vitamin D",86
+whole milk ,"Cheese, mozzarella, whole milk",90
+american cheese ,"Cheese, cottage, creamed, large or small curd",86
+cheddar cheese ,"Cheese, cheddar",95
+"ice cream, regular, bulk ","Cheese, cream",86
+white sugar ,"Egg, white, raw, fresh",86
+ground coffee ,"Cream, fluid, light (coffee cream or table cream)",86
+potato chip ,"Snacks, potato chips, barbecue-flavor",90
+"chicken breast, boneless ","Babyfood, meat, chicken sticks, junior",86
+low-fat milk,"Milk dessert bar, frozen, made from lowfat milk",86
+"yogurt, whole-fat plain ","Cheese, mozzarella, whole milk, low moisture",86
+"butter, stick ","Butter, whipped, with salt",86
+acorn squash ,"Babyfood, vegetables, squash, strained",86
+"artichoke, fresh ","Egg, duck, whole, fresh, raw",86
+"artichoke, canned","Milk, canned, condensed, sweetened",86
+"asparagus, fresh ","Egg, duck, whole, fresh, raw",86
+"asparagus, canned","Soup, cream of asparagus, canned, condensed",90
+"asparagus, frozen","Asparagus, frozen, cooked, boiled, drained, without salt",90
+avacado ,"Avocados, raw, all commercial varieties",77
+"beets, canned ","Beets, canned, drained solids",90
+"black beans, canned","Milk, canned, condensed, sweetened",86
+"black beans, dried","Spices, coriander leaf, dried",86
+"blackeye peas, canned","Milk, canned, condensed, sweetened",86
+"blackeye peas, dried ","Babyfood, vegetables, peas, strained",86
+"broccoli florets, fresh ","Basil, fresh",86
+"broccoli heads, fresh ","Basil, fresh",86
+"broccoli, frozen ","Broccoli, frozen, chopped, unprepared",90
+"brussels sprouts, fresh ","Brussels sprouts, raw",86
+"brussels sprouts, frozen ","Brussels sprouts, frozen, cooked, boiled, drained, without salt",90
+butternut squash,"Babyfood, vegetable, butternut squash and corn",90
+green cabbage ,"Babyfood, vegetables, green beans, strained",86
+red cabbage ,"Spices, pepper, red or cayenne",86
+"sauerkraut, canned ","Sauerkraut, canned, solids and liquids",90
+"carrots, whole, fresh ","Cheese, mozzarella, whole milk, low moisture",86
+"carrots, canned","Carrots, canned, regular pack, drained solids",90
+"carrots, frozen ","Carrots, frozen, unprepared",90
+cauliflower florets ,"Cauliflower, cooked, boiled, drained, without salt",86
+cauliflower heads  ,"Cauliflower, cooked, boiled, drained, without salt",86
+"cauliflower, frozen ","Cauliflower, frozen, unprepared",90
+celery ,"Spices, celery seed",90
+"collard greens, fresh ",Lard,90
+"collard greens, frozen ",Lard,90
+"corn, fresh ","Egg, whole, raw, fresh",86
+"corn, canned ","Milk, canned, condensed, sweetened",86
+"corn, frozen ","Dessert topping, semi solid, frozen",86
+"Cucumbers, fresh ","Egg, duck, whole, fresh, raw",86
+"Great northern beans, canned","Milk, canned, evaporated, with added vitamin D and without added vitamin A",86
+"Great northern beans, dried","Whey, acid, dried",86
+"Green beans, fresh","Egg, duck, whole, fresh, raw",86
+"Green beans, canned","Milk, canned, condensed, sweetened",86
+"Green beans, frozen ","Dessert topping, semi solid, frozen",86
+"Green peas, canned","Milk, canned, condensed, sweetened",86
+"Green peas, frozen ","Dessert topping, semi solid, frozen",86
+Green peppers,"Tomato products, canned, sauce, with onions, green peppers, and celery",90
+"Kale, fresh ","Egg, whole, raw, fresh",86
+"Kale, frozen ","Kale, frozen, cooked, boiled, drained, without salt",90
+"Kidney beans, canned ","Milk, canned, condensed, sweetened",86
+"Kidney beans, dried","Spices, coriander leaf, dried",86
+Lentils,"Lentils, raw",90
+"Lettuce, iceberg","Lettuce, iceberg (includes crisphead types), raw",90
+"Lettuce, romaine, heads","Lettuce, butterhead (includes boston and bibb types), raw",86
+"Lettuce, romaine, hearts","Lettuce, butterhead (includes boston and bibb types), raw",86
+"Lima beans, canned","Milk, canned, condensed, sweetened",86
+"Lima beans, frozen ","Dessert topping, semi solid, frozen",86
+"Lima beans, dried","Spices, coriander leaf, dried",86
+canned mixed vegetables: peas and carrots,"Cream, fluid, half and half",86
+frozen mixed vegetables: peas and carrots,"Cream, fluid, half and half",86
+"frozen mixed vegetables: carrots, peas, corn, and green beans","Cream, fluid, half and half",86
+"frozen mixed vegetables: broccoli, cauliflower, and carrots","Cream, fluid, half and half",86
+"Mushrooms, whole","Cheese, mozzarella, whole milk",86
+"Mushrooms, pre-sliced","Ham, sliced, pre-packaged, deli meat (96%fat free, water added)",86
+"Mustard greens, canned","Milk, canned, condensed, sweetened",86
+"Mustard greens, frozen","Mustard greens, frozen, cooked, boiled, drained, without salt",90
+"Navy beans, canned","Milk, canned, condensed, sweetened",86
+"Navy beans, dried","Spices, coriander leaf, dried",86
+"Okra, fresh ","Egg, whole, raw, fresh",86
+"Okra, frozen ","Okra, frozen, unprepared",90
+"Olives, canned","Milk, canned, condensed, sweetened",86
+"Onions, fresh ","Egg, whole, raw, fresh",86
+"Pinto beans, canned ","Milk, canned, condensed, sweetened",86
+"Pinto beans, dried ","Spices, coriander leaf, dried",86
+"Potatoes, fresh ","Egg, duck, whole, fresh, raw",86
+"Potatoes, french fries","Potatoes, french fried, all types, salt added in processing, frozen, home-prepared, oven heated",88
+"Potatoes, canned","Potatoes, canned, drained solids, no salt added",90
+"Pumpkin, canned","Pumpkin, canned, without salt",90
+Radish,"Horseradish, prepared",90
+Red bell peppers,"Spices, pepper, red or cayenne",86
+"Spinach, fresh ","Egg, whole, raw, fresh",86
+"Spinach, canned ","Spinach, canned, regular pack, drained solids",90
+"Spinach, frozen ","Spinach, frozen, chopped or leaf, unprepared",90
+"Sweet potatoes, fresh ","Basil, fresh",86
+"Tomatoes, grape and cherry","Cream substitute, liquid, with hydrogenated vegetable oil and soy protein",86
+"Tomatoes, Roma and plum","Cream substitute, liquid, with hydrogenated vegetable oil and soy protein",86
+"Tomatoes, large round","Cheese, cottage, creamed, large or small curd",86
+"Tomatoes, canned ","Milk, canned, condensed, sweetened",86
+"Turnip greens, fresh ","Basil, fresh",86
+"Turnip greens, canned ","Turnip greens, canned, no salt added",90
+"Zucchini, fresh ","Egg, duck, whole, fresh, raw",86
+Apples,"Babyfood, apples, dices, toddler",90
+applesauce,"Babyfood, fruit, applesauce, strained",90
+Apple juice ,"Apple juice, canned or bottled, unsweetened, without added ascorbic acid",90
+"Apples, frozen juice concentrate","Yogurt, frozen, flavors not chocolate, nonfat milk, with low-calorie sweetener",86
+"Apricots, fresh ","Egg, duck, whole, fresh, raw",86
+"Apricots, canned","Apricots, canned, water pack, with skin, solids and liquids",90
+"Apricots, dried","Apricots, dried, sulfured, uncooked",90
+Bananas,"Babyfood, fruit, bananas with tapioca, strained",90
+"Berries, mixed, frozen ","Dessert topping, semi solid, frozen",86
+"Blackberries, fresh ","Egg, goose, whole, fresh, raw",86
+"Blackberries, frozen ","Blackberries, frozen, unsweetened",90
+"Blueberries, fresh ","Egg, duck, whole, fresh, raw",86
+"Blueberries, frozen ","Blueberries, frozen, unsweetened",90
+"Cantaloupe, fresh ","Egg, duck, whole, fresh, raw",86
+"Cherries, fresh ","Egg, duck, whole, fresh, raw",86
+"Cherries, canned ","Cherries, sour, red, canned, water pack, solids and liquids (includes USDA commodity red tart cherries, canned)",90
+"Clementines, fresh ","Egg, duck, whole, fresh, raw",86
+"Cranberries, dried ","Cranberries, dried, sweetened",90
+"Dates, dried","Milk, buttermilk, dried",86
+"Figs, dried ","Figs, dried, uncooked",90
+"Fruit cocktail, in juice","Cheese, cottage, creamed, with fruit",86
+"Fruit cocktail, in syrup or water","Cheese, cottage, nonfat, uncreamed, dry, large or small curd",86
+Grapefruit,"Grapefruit, raw, pink and red and white, all areas",90
+"Grapefruit, juice","Grapefruit juice, white, canned or bottled, unsweetened",87
+Grapes,"Grapes, american type (slip skin), raw",90
+raisins,"Raisins, golden seedless",90
+Grape juice ,"Grape juice, canned or bottled, unsweetened, with added ascorbic acid",90
+"Grapes, frozen juice concentrate","Yogurt, frozen, flavors not chocolate, nonfat milk, with low-calorie sweetener",86
+Honeydew,"Melons, honeydew, raw",90
+Kiwi,"Kiwifruit, green, raw",90
+"Mangoes, fresh ","Egg, whole, raw, fresh",86
+"Mangoes, dried","Milk, buttermilk, dried",86
+Nectarines,"Nectarines, raw",90
+Oranges,"Oranges, raw, all commercial varieties",90
+Orange juice,"Orange juice, raw",95
+"Orange, frozen juice concentrate","Yogurt, frozen, flavors not chocolate, nonfat milk, with low-calorie sweetener",86
+"Papaya, fresh ","Egg, whole, raw, fresh",86
+"Papaya, dried","Milk, buttermilk, dried",86
+"Peaches, fresh ","Egg, whole, raw, fresh",86
+"Peach, canned in juice","Milk, canned, condensed, sweetened",86
+"Peaches, canned in syrup ","Milk, canned, evaporated, with added vitamin D and without added vitamin A",86
+"Peaches, frozen ","Peaches, frozen, sliced, sweetened",90
+"Pears, fresh ","Egg, whole, raw, fresh",86
+"Pears, canned in juice","Pears, canned, juice pack, solids and liquids",86
+"Pears, canned in syrup ","Milk, canned, condensed, sweetened",86
+"Pineapple, fresh ","Egg, duck, whole, fresh, raw",86
+"Pineapple, canned in juice","Pineapple, canned, juice pack, drained",89
+"Pineapple, canned in syrup","Milk, canned, evaporated, with added vitamin D and without added vitamin A",86
+"Pineapple, dried","Spices, coriander leaf, dried",86
+Pineapple juice,"Pineapple juice, canned or bottled, unsweetened, without added ascorbic acid",90
+"Pineapple, frozen juice concentrate","Yogurt, frozen, flavors not chocolate, nonfat milk, with low-calorie sweetener",86
+"Plum, fresh ","Egg, whole, raw, fresh",86
+"Plum (prunes), dried","Babyfood, fruit, prunes with tapioca, without ascorbic acid, strained",86
+Plum (prune) juice ,"Babyfood, juice treats, fruit medley, toddler",86
+"Pomegranate, fresh ","Egg, duck, whole, fresh, raw",86
+Pomegranate juice,"Pomegranate juice, bottled",90
+"Raspberries, fresh ","Egg, duck, whole, fresh, raw",86
+"Raspberries, frozen ","Raspberries, frozen, red, sweetened",90
+"Strawberries, fresh ","Egg, goose, whole, fresh, raw",86
+"Strawberries, frozen ","Strawberries, frozen, unsweetened",90
+Watermelon,"Watermelon, raw",90

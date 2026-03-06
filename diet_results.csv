@@ -1,0 +1,73 @@
+disability,sex,age_group,activity,success,cost_per_day,top_foods
+No disability,Female,19_30,sedentary,True,2.2784274290845543,"low-fat milk (12.50*100g), rice long grain (2.06*100g), Tomatoes, canned (1.39*100g), black beans, canned (0.39*100g), whole wheat bread (0.14*100g)"
+No disability,Female,19_30,moderate,True,2.434421562071108,"low-fat milk (12.50*100g), rice long grain (3.08*100g), Tomatoes, canned (1.20*100g), black beans, canned (0.35*100g), Pineapple, fresh (0.19*100g)"
+No disability,Female,19_30,active,True,2.5907783502849266,"low-fat milk (12.50*100g), rice long grain (4.09*100g), Tomatoes, canned (1.02*100g), black beans, canned (0.31*100g), Pineapple, fresh (0.25*100g)"
+No disability,Female,31_50,sedentary,True,2.1744313404268523,"low-fat milk (12.50*100g), Tomatoes, canned (1.51*100g), rice long grain (1.38*100g), black beans, canned (0.42*100g), whole wheat bread (0.15*100g)"
+No disability,Female,31_50,moderate,True,2.31482606011475,"low-fat milk (12.50*100g), rice long grain (2.30*100g), Tomatoes, canned (1.34*100g), black beans, canned (0.38*100g), Pineapple, fresh (0.15*100g)"
+No disability,Female,31_50,active,True,2.455220779802648,"low-fat milk (12.50*100g), rice long grain (3.21*100g), Tomatoes, canned (1.18*100g), black beans, canned (0.35*100g), Pineapple, fresh (0.20*100g)"
+No disability,Female,51U,sedentary,True,2.0726752043520613,"low-fat milk (12.50*100g), Tomatoes, canned (1.63*100g), rice long grain (0.76*100g), black beans, canned (0.41*100g), whole wheat bread (0.14*100g)"
+No disability,Female,51U,moderate,True,2.1940853447156323,"low-fat milk (12.50*100g), rice long grain (1.57*100g), Tomatoes, canned (1.48*100g), black beans, canned (0.41*100g), whole wheat bread (0.13*100g)"
+No disability,Female,51U,active,True,2.3189531826097767,"low-fat milk (12.50*100g), rice long grain (2.38*100g), Tomatoes, canned (1.33*100g), black beans, canned (0.38*100g), Pineapple, fresh (0.15*100g)"
+No disability,Male,19_30,sedentary,True,2.6505663866712874,"low-fat milk (12.50*100g), Tomatoes, canned (2.66*100g), rice long grain (2.32*100g), Pineapple, fresh (0.23*100g), whole wheat bread (0.20*100g)"
+No disability,Male,19_30,moderate,True,2.834052318391952,"low-fat milk (12.50*100g), rice long grain (3.51*100g), Tomatoes, canned (2.43*100g), Pineapple, fresh (0.25*100g), whole wheat bread (0.19*100g)"
+No disability,Male,19_30,active,True,3.0178226227424343,"low-fat milk (12.50*100g), rice long grain (4.68*100g), Tomatoes, canned (2.21*100g), Pineapple, fresh (0.27*100g), whole wheat bread (0.19*100g)"
+No disability,Male,31_50,sedentary,True,2.548946409273107,"low-fat milk (12.50*100g), Tomatoes, canned (2.78*100g), rice long grain (1.65*100g), Pineapple, fresh (0.21*100g), whole wheat bread (0.21*100g)"
+No disability,Male,31_50,moderate,True,2.7166435128346995,"low-fat milk (12.50*100g), rice long grain (2.76*100g), Tomatoes, canned (2.58*100g), Pineapple, fresh (0.24*100g), whole wheat bread (0.19*100g)"
+No disability,Male,31_50,active,True,2.885099625155975,"low-fat milk (12.50*100g), rice long grain (3.83*100g), Tomatoes, canned (2.37*100g), Pineapple, fresh (0.26*100g), whole wheat bread (0.19*100g)"
+No disability,Male,51U,sedentary,True,2.446092786985379,"low-fat milk (12.50*100g), Tomatoes, canned (2.90*100g), rice long grain (1.03*100g), Pineapple, fresh (0.20*100g), whole wheat bread (0.20*100g)"
+No disability,Male,51U,moderate,True,2.5992347072774473,"low-fat milk (12.50*100g), Tomatoes, canned (2.72*100g), rice long grain (2.01*100g), Pineapple, fresh (0.22*100g), whole wheat bread (0.20*100g)"
+No disability,Male,51U,active,True,2.752376627569516,"low-fat milk (12.50*100g), rice long grain (2.99*100g), Tomatoes, canned (2.53*100g), Pineapple, fresh (0.24*100g), whole wheat bread (0.19*100g)"
+Diabetes,Female,19_30,sedentary,False,,The problem is infeasible. (HiGHS Status 8: model_status is Infeasible; primal_status is At lower/fixed bound)
+Diabetes,Female,19_30,moderate,False,,The problem is infeasible. (HiGHS Status 8: model_status is Infeasible; primal_status is At lower/fixed bound)
+Diabetes,Female,19_30,active,False,,The problem is infeasible. (HiGHS Status 8: model_status is Infeasible; primal_status is At lower/fixed bound)
+Diabetes,Female,31_50,sedentary,False,,The problem is infeasible. (HiGHS Status 8: model_status is Infeasible; primal_status is At lower/fixed bound)
+Diabetes,Female,31_50,moderate,False,,The problem is infeasible. (HiGHS Status 8: model_status is Infeasible; primal_status is At lower/fixed bound)
+Diabetes,Female,31_50,active,False,,The problem is infeasible. (HiGHS Status 8: model_status is Infeasible; primal_status is At lower/fixed bound)
+Diabetes,Female,51U,sedentary,False,,The problem is infeasible. (HiGHS Status 8: model_status is Infeasible; primal_status is At lower/fixed bound)
+Diabetes,Female,51U,moderate,False,,The problem is infeasible. (HiGHS Status 8: model_status is Infeasible; primal_status is At lower/fixed bound)
+Diabetes,Female,51U,active,False,,The problem is infeasible. (HiGHS Status 8: model_status is Infeasible; primal_status is At lower/fixed bound)
+Diabetes,Male,19_30,sedentary,False,,The problem is infeasible. (HiGHS Status 8: model_status is Infeasible; primal_status is At lower/fixed bound)
+Diabetes,Male,19_30,moderate,False,,The problem is infeasible. (HiGHS Status 8: model_status is Infeasible; primal_status is At lower/fixed bound)
+Diabetes,Male,19_30,active,False,,The problem is infeasible. (HiGHS Status 8: model_status is Infeasible; primal_status is At lower/fixed bound)
+Diabetes,Male,31_50,sedentary,False,,The problem is infeasible. (HiGHS Status 8: model_status is Infeasible; primal_status is At lower/fixed bound)
+Diabetes,Male,31_50,moderate,False,,The problem is infeasible. (HiGHS Status 8: model_status is Infeasible; primal_status is At lower/fixed bound)
+Diabetes,Male,31_50,active,False,,The problem is infeasible. (HiGHS Status 8: model_status is Infeasible; primal_status is At lower/fixed bound)
+Diabetes,Male,51U,sedentary,False,,The problem is infeasible. (HiGHS Status 8: model_status is Infeasible; primal_status is At lower/fixed bound)
+Diabetes,Male,51U,moderate,False,,The problem is infeasible. (HiGHS Status 8: model_status is Infeasible; primal_status is At lower/fixed bound)
+Diabetes,Male,51U,active,False,,The problem is infeasible. (HiGHS Status 8: model_status is Infeasible; primal_status is At lower/fixed bound)
+Celiac,Female,19_30,sedentary,True,2.2784274290845543,"low-fat milk (12.50*100g), rice long grain (2.06*100g), Tomatoes, canned (1.39*100g), black beans, canned (0.39*100g), whole wheat bread (0.14*100g)"
+Celiac,Female,19_30,moderate,True,2.434421562071108,"low-fat milk (12.50*100g), rice long grain (3.08*100g), Tomatoes, canned (1.20*100g), black beans, canned (0.35*100g), Pineapple, fresh (0.19*100g)"
+Celiac,Female,19_30,active,True,2.5907783502849266,"low-fat milk (12.50*100g), rice long grain (4.09*100g), Tomatoes, canned (1.02*100g), black beans, canned (0.31*100g), Pineapple, fresh (0.25*100g)"
+Celiac,Female,31_50,sedentary,True,2.1744313404268523,"low-fat milk (12.50*100g), Tomatoes, canned (1.51*100g), rice long grain (1.38*100g), black beans, canned (0.42*100g), whole wheat bread (0.15*100g)"
+Celiac,Female,31_50,moderate,True,2.31482606011475,"low-fat milk (12.50*100g), rice long grain (2.30*100g), Tomatoes, canned (1.34*100g), black beans, canned (0.38*100g), Pineapple, fresh (0.15*100g)"
+Celiac,Female,31_50,active,True,2.455220779802648,"low-fat milk (12.50*100g), rice long grain (3.21*100g), Tomatoes, canned (1.18*100g), black beans, canned (0.35*100g), Pineapple, fresh (0.20*100g)"
+Celiac,Female,51U,sedentary,True,2.0726752043520613,"low-fat milk (12.50*100g), Tomatoes, canned (1.63*100g), rice long grain (0.76*100g), black beans, canned (0.41*100g), whole wheat bread (0.14*100g)"
+Celiac,Female,51U,moderate,True,2.1940853447156323,"low-fat milk (12.50*100g), rice long grain (1.57*100g), Tomatoes, canned (1.48*100g), black beans, canned (0.41*100g), whole wheat bread (0.13*100g)"
+Celiac,Female,51U,active,True,2.3189531826097767,"low-fat milk (12.50*100g), rice long grain (2.38*100g), Tomatoes, canned (1.33*100g), black beans, canned (0.38*100g), Pineapple, fresh (0.15*100g)"
+Celiac,Male,19_30,sedentary,True,2.6505663866712874,"low-fat milk (12.50*100g), Tomatoes, canned (2.66*100g), rice long grain (2.32*100g), Pineapple, fresh (0.23*100g), whole wheat bread (0.20*100g)"
+Celiac,Male,19_30,moderate,True,2.834052318391952,"low-fat milk (12.50*100g), rice long grain (3.51*100g), Tomatoes, canned (2.43*100g), Pineapple, fresh (0.25*100g), whole wheat bread (0.19*100g)"
+Celiac,Male,19_30,active,True,3.0178226227424343,"low-fat milk (12.50*100g), rice long grain (4.68*100g), Tomatoes, canned (2.21*100g), Pineapple, fresh (0.27*100g), whole wheat bread (0.19*100g)"
+Celiac,Male,31_50,sedentary,True,2.548946409273107,"low-fat milk (12.50*100g), Tomatoes, canned (2.78*100g), rice long grain (1.65*100g), Pineapple, fresh (0.21*100g), whole wheat bread (0.21*100g)"
+Celiac,Male,31_50,moderate,True,2.7166435128346995,"low-fat milk (12.50*100g), rice long grain (2.76*100g), Tomatoes, canned (2.58*100g), Pineapple, fresh (0.24*100g), whole wheat bread (0.19*100g)"
+Celiac,Male,31_50,active,True,2.885099625155975,"low-fat milk (12.50*100g), rice long grain (3.83*100g), Tomatoes, canned (2.37*100g), Pineapple, fresh (0.26*100g), whole wheat bread (0.19*100g)"
+Celiac,Male,51U,sedentary,True,2.446092786985379,"low-fat milk (12.50*100g), Tomatoes, canned (2.90*100g), rice long grain (1.03*100g), Pineapple, fresh (0.20*100g), whole wheat bread (0.20*100g)"
+Celiac,Male,51U,moderate,True,2.5992347072774473,"low-fat milk (12.50*100g), Tomatoes, canned (2.72*100g), rice long grain (2.01*100g), Pineapple, fresh (0.22*100g), whole wheat bread (0.20*100g)"
+Celiac,Male,51U,active,True,2.752376627569516,"low-fat milk (12.50*100g), rice long grain (2.99*100g), Tomatoes, canned (2.53*100g), Pineapple, fresh (0.24*100g), whole wheat bread (0.19*100g)"
+Kidney disease,Female,19_30,sedentary,True,16.98383334118241,"chicken breast, boneless (15.57*100g), low-fat milk (9.56*100g), Pinto beans, dried (0.68*100g), chicken legs, bone-in (0.57*100g), Pineapple, fresh (0.55*100g)"
+Kidney disease,Female,19_30,moderate,True,16.98383334118241,"chicken breast, boneless (15.57*100g), low-fat milk (9.56*100g), Pinto beans, dried (0.68*100g), chicken legs, bone-in (0.57*100g), Pineapple, fresh (0.55*100g)"
+Kidney disease,Female,19_30,active,True,16.98383334118241,"chicken breast, boneless (15.57*100g), low-fat milk (9.56*100g), Pinto beans, dried (0.68*100g), chicken legs, bone-in (0.57*100g), Pineapple, fresh (0.55*100g)"
+Kidney disease,Female,31_50,sedentary,False,,The problem is infeasible. (HiGHS Status 8: model_status is Infeasible; primal_status is At lower/fixed bound)
+Kidney disease,Female,31_50,moderate,False,,The problem is infeasible. (HiGHS Status 8: model_status is Infeasible; primal_status is At lower/fixed bound)
+Kidney disease,Female,31_50,active,False,,The problem is infeasible. (HiGHS Status 8: model_status is Infeasible; primal_status is At lower/fixed bound)
+Kidney disease,Female,51U,sedentary,False,,The problem is infeasible. (HiGHS Status 8: model_status is Infeasible; primal_status is At lower/fixed bound)
+Kidney disease,Female,51U,moderate,False,,The problem is infeasible. (HiGHS Status 8: model_status is Infeasible; primal_status is At lower/fixed bound)
+Kidney disease,Female,51U,active,False,,The problem is infeasible. (HiGHS Status 8: model_status is Infeasible; primal_status is At lower/fixed bound)
+Kidney disease,Male,19_30,sedentary,True,4.838988659489009,"low-fat milk (11.35*100g), chicken legs, bone-in (3.15*100g), cheddar cheese (1.19*100g), Pinto beans, dried (0.74*100g), Pineapple, fresh (0.64*100g)"
+Kidney disease,Male,19_30,moderate,True,5.021701118651708,"low-fat milk (11.35*100g), chicken legs, bone-in (2.98*100g), cheddar cheese (1.20*100g), whole wheat bread (1.07*100g), Pinto beans, dried (0.74*100g)"
+Kidney disease,Male,19_30,active,True,5.204413577814482,"low-fat milk (11.36*100g), chicken legs, bone-in (2.80*100g), whole wheat bread (1.50*100g), cheddar cheese (1.22*100g), Pinto beans, dried (0.74*100g)"
+Kidney disease,Male,31_50,sedentary,True,10.659282765950165,"low-fat milk (10.50*100g), chicken breast, boneless (7.13*100g), chicken legs, bone-in (3.52*100g), Pinto beans, dried (0.76*100g), cheddar cheese (0.69*100g)"
+Kidney disease,Male,31_50,moderate,True,10.659282765950165,"low-fat milk (10.50*100g), chicken breast, boneless (7.13*100g), chicken legs, bone-in (3.52*100g), Pinto beans, dried (0.76*100g), cheddar cheese (0.69*100g)"
+Kidney disease,Male,31_50,active,True,10.659282765950165,"low-fat milk (10.50*100g), chicken breast, boneless (7.13*100g), chicken legs, bone-in (3.52*100g), Pinto beans, dried (0.76*100g), cheddar cheese (0.69*100g)"
+Kidney disease,Male,51U,sedentary,True,17.4514088222221,"chicken breast, boneless (15.41*100g), low-fat milk (9.54*100g), chicken legs, bone-in (2.60*100g), Pinto beans, dried (0.67*100g), Pineapple, fresh (0.66*100g)"
+Kidney disease,Male,51U,moderate,True,17.4514088222221,"chicken breast, boneless (15.41*100g), low-fat milk (9.54*100g), chicken legs, bone-in (2.60*100g), Pinto beans, dried (0.67*100g), Pineapple, fresh (0.66*100g)"
+Kidney disease,Male,51U,active,True,17.4514088222221,"chicken breast, boneless (15.41*100g), low-fat milk (9.54*100g), chicken legs, bone-in (2.60*100g), Pinto beans, dried (0.67*100g), Pineapple, fresh (0.66*100g)"

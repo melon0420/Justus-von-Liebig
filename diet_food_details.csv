@@ -109,209 +109,332 @@ No disability,Male,51U,active,"Tomatoes, canned",2.5322702243664357,253.22702243
 No disability,Male,51U,active,"Pineapple, fresh",0.24009527346289036,24.009527346289037
 No disability,Male,51U,active,whole wheat bread,0.19377347284391577,19.377347284391575
 No disability,Male,51U,active,"black beans, canned",0.13548101088641618,13.548101088641618
-Celiac,Female,19_30,sedentary,low-fat milk,12.5,1250.0
-Celiac,Female,19_30,sedentary,rice long grain,2.0601306742260674,206.01306742260675
-Celiac,Female,19_30,sedentary,"Tomatoes, canned",1.3864048128651913,138.64048128651913
-Celiac,Female,19_30,sedentary,"black beans, canned",0.3943586936423085,39.435869364230854
-Celiac,Female,19_30,sedentary,whole wheat bread,0.13783903948942758,13.783903948942758
-Celiac,Female,19_30,sedentary,"Pineapple, fresh",0.1364882055314624,13.64882055314624
-Celiac,Female,19_30,moderate,low-fat milk,12.5,1250.0
-Celiac,Female,19_30,moderate,rice long grain,3.076507949507829,307.65079495078294
-Celiac,Female,19_30,moderate,"Tomatoes, canned",1.2007517206481704,120.07517206481704
-Celiac,Female,19_30,moderate,"black beans, canned",0.3514093116782422,35.14093116782422
-Celiac,Female,19_30,moderate,"Pineapple, fresh",0.19120701165858434,19.120701165858435
-Celiac,Female,19_30,moderate,whole wheat bread,0.12377105305589285,12.377105305589286
-Celiac,Female,19_30,active,low-fat milk,12.5,1250.0
-Celiac,Female,19_30,active,rice long grain,4.087880160025877,408.7880160025877
-Celiac,Female,19_30,active,"Tomatoes, canned",1.015461556249006,101.54615562490059
-Celiac,Female,19_30,active,"black beans, canned",0.30730956665456743,30.730956665456745
-Celiac,Female,19_30,active,"Pineapple, fresh",0.24580683340003995,24.580683340003993
-Celiac,Female,19_30,active,whole wheat bread,0.11159709221023838,11.159709221023837
-Celiac,Female,19_30,active,"Pinto beans, dried",0.0019976910420598515,0.19976910420598515
-Celiac,Female,31_50,sedentary,low-fat milk,12.5,1250.0
-Celiac,Female,31_50,sedentary,"Tomatoes, canned",1.5101735410098716,151.01735410098715
-Celiac,Female,31_50,sedentary,rice long grain,1.3825458240382267,138.25458240382267
-Celiac,Female,31_50,sedentary,"black beans, canned",0.4229916149516864,42.29916149516864
-Celiac,Female,31_50,sedentary,whole wheat bread,0.1472176971117841,14.721769711178409
-Celiac,Female,31_50,sedentary,"Pineapple, fresh",0.10000900144671454,10.000900144671455
-Celiac,Female,31_50,moderate,low-fat milk,12.5,1250.0
-Celiac,Female,31_50,moderate,rice long grain,2.2972853717918116,229.72853717918116
-Celiac,Female,31_50,moderate,"Tomatoes, canned",1.343085758014553,134.3085758014553
-Celiac,Female,31_50,moderate,"black beans, canned",0.3843371711840267,38.43371711840267
-Celiac,Female,31_50,moderate,"Pineapple, fresh",0.14925592696112422,14.925592696112421
-Celiac,Female,31_50,moderate,whole wheat bread,0.13455650932160282,13.455650932160282
-Celiac,Female,31_50,active,low-fat milk,12.5,1250.0
-Celiac,Female,31_50,active,rice long grain,3.212024919545397,321.2024919545397
-Celiac,Female,31_50,active,"Tomatoes, canned",1.1759979750192344,117.59979750192345
-Celiac,Female,31_50,active,"black beans, canned",0.3456827274163662,34.56827274163662
-Celiac,Female,31_50,active,"Pineapple, fresh",0.19850285247553387,19.850285247553387
-Celiac,Female,31_50,active,whole wheat bread,0.12189532153142156,12.189532153142157
-Celiac,Female,51U,sedentary,low-fat milk,12.5,1250.0
-Celiac,Female,51U,sedentary,"Tomatoes, canned",1.6288809632165924,162.88809632165925
-Celiac,Female,51U,sedentary,rice long grain,0.7578379229206851,75.78379229206851
-Celiac,Female,51U,sedentary,"black beans, canned",0.4072415539729916,40.724155397299164
-Celiac,Female,51U,sedentary,whole wheat bread,0.13758753044513855,13.758753044513854
-Celiac,Female,51U,sedentary,"Pineapple, fresh",0.06502155069104944,6.502155069104944
-Celiac,Female,51U,sedentary,"Navy beans, dried",0.040188545583257115,4.018854558325711
-Celiac,Female,51U,moderate,low-fat milk,12.5,1250.0
-Celiac,Female,51U,moderate,rice long grain,1.5700040796402313,157.0004079640231
-Celiac,Female,51U,moderate,"Tomatoes, canned",1.479695652034049,147.9695652034049
-Celiac,Female,51U,moderate,"black beans, canned",0.41487347789176104,41.487347789176106
-Celiac,Female,51U,moderate,whole wheat bread,0.12630255440164034,12.630255440164035
-Celiac,Female,51U,moderate,"Pineapple, fresh",0.10899195819748327,10.899195819748327
-Celiac,Female,51U,active,low-fat milk,12.5,1250.0
-Celiac,Female,51U,active,rice long grain,2.379816225235736,237.98162252357363
-Celiac,Female,51U,active,"Tomatoes, canned",1.3315357139378146,133.15357139378145
-Celiac,Female,51U,active,"black beans, canned",0.38066544008801334,38.06654400880134
-Celiac,Female,51U,active,"Pineapple, fresh",0.15266015047847872,15.266015047847873
-Celiac,Female,51U,active,whole wheat bread,0.11625401657838332,11.625401657838331
-Celiac,Male,19_30,sedentary,low-fat milk,12.5,1250.0
-Celiac,Male,19_30,sedentary,"Tomatoes, canned",2.6567318200720873,265.6731820072087
-Celiac,Male,19_30,sedentary,rice long grain,2.320132352441462,232.0132352441462
-Celiac,Male,19_30,sedentary,"Pineapple, fresh",0.22708741072880798,22.708741072880798
-Celiac,Male,19_30,sedentary,whole wheat bread,0.2001532626200196,20.01532626200196
-Celiac,Male,19_30,sedentary,"black beans, canned",0.1553196074283006,15.531960742830059
-Celiac,Male,19_30,moderate,low-fat milk,12.5,1250.0
-Celiac,Male,19_30,moderate,rice long grain,3.5077207502458756,350.77207502458754
-Celiac,Male,19_30,moderate,"Tomatoes, canned",2.4337516702447783,243.37516702447783
-Celiac,Male,19_30,moderate,"Pineapple, fresh",0.25039174942809916,25.039174942809915
-Celiac,Male,19_30,moderate,whole wheat bread,0.19211973845941885,19.211973845941884
-Celiac,Male,19_30,moderate,"black beans, canned",0.1199724397626779,11.99724397626779
-Celiac,Male,19_30,active,low-fat milk,12.5,1250.0
-Celiac,Male,19_30,active,rice long grain,4.683590600381823,468.3590600381823
-Celiac,Male,19_30,active,"Tomatoes, canned",2.2120849234710507,221.20849234710508
-Celiac,Male,19_30,active,"Pineapple, fresh",0.27355882034981893,27.355882034981892
-Celiac,Male,19_30,active,whole wheat bread,0.18839883609430078,18.83988360943008
-Celiac,Male,19_30,active,"black beans, canned",0.08507815473426619,8.50781547342662
-Celiac,Male,31_50,sedentary,low-fat milk,12.5,1250.0
-Celiac,Male,31_50,sedentary,"Tomatoes, canned",2.7820721665284927,278.20721665284924
-Celiac,Male,31_50,sedentary,rice long grain,1.6473123180953029,164.7312318095303
-Celiac,Male,31_50,sedentary,"Pineapple, fresh",0.21398770706115516,21.398770706115517
-Celiac,Male,31_50,sedentary,whole wheat bread,0.20941847254964938,20.941847254964937
-Celiac,Male,31_50,sedentary,"black beans, canned",0.17546121145624957,17.54612114562496
-Celiac,Male,31_50,moderate,low-fat milk,12.5,1250.0
-Celiac,Male,31_50,moderate,rice long grain,2.7564705682145756,275.64705682145757
-Celiac,Male,31_50,moderate,"Tomatoes, canned",2.5753720917946605,257.53720917946606
-Celiac,Male,31_50,moderate,"Pineapple, fresh",0.23559056522811148,23.559056522811147
-Celiac,Male,31_50,moderate,whole wheat bread,0.19449698163713317,19.449698163713318
-Celiac,Male,31_50,moderate,"black beans, canned",0.1422660107530518,14.226601075305181
-Celiac,Male,31_50,active,low-fat milk,12.5,1250.0
-Celiac,Male,31_50,active,rice long grain,3.8343512641725277,383.4351264172528
-Celiac,Male,31_50,active,"Tomatoes, canned",2.3721775739187434,237.21775739187433
-Celiac,Male,31_50,active,"Pineapple, fresh",0.2568270469063546,25.68270469063546
-Celiac,Male,31_50,active,whole wheat bread,0.19108615446910832,19.108615446910832
-Celiac,Male,31_50,active,"black beans, canned",0.11027958281034063,11.027958281034064
-Celiac,Male,51U,sedentary,low-fat milk,12.5,1250.0
-Celiac,Male,51U,sedentary,"Tomatoes, canned",2.9017148023226507,290.1714802322651
-Celiac,Male,51U,sedentary,rice long grain,1.0253288444033195,102.53288444033196
-Celiac,Male,51U,sedentary,"Pineapple, fresh",0.2014834885933572,20.148348859335723
-Celiac,Male,51U,sedentary,whole wheat bread,0.19997497678577927,19.99749767857793
-Celiac,Male,51U,sedentary,"black beans, canned",0.19363815260043493,19.363815260043495
-Celiac,Male,51U,moderate,low-fat milk,12.5,1250.0
-Celiac,Male,51U,moderate,"Tomatoes, canned",2.7169925133445436,271.69925133445435
-Celiac,Male,51U,moderate,rice long grain,2.0052203861832756,200.52203861832757
-Celiac,Male,51U,moderate,"Pineapple, fresh",0.2207893810281237,22.07893810281237
-Celiac,Male,51U,moderate,whole wheat bread,0.19687422481484754,19.687422481484752
-Celiac,Male,51U,moderate,"black beans, canned",0.164559581743425,16.4559581743425
-Celiac,Male,51U,active,low-fat milk,12.5,1250.0
-Celiac,Male,51U,active,rice long grain,2.9851119279632323,298.51119279632326
-Celiac,Male,51U,active,"Tomatoes, canned",2.5322702243664357,253.22702243664358
-Celiac,Male,51U,active,"Pineapple, fresh",0.24009527346289036,24.009527346289037
-Celiac,Male,51U,active,whole wheat bread,0.19377347284391577,19.377347284391575
-Celiac,Male,51U,active,"black beans, canned",0.13548101088641618,13.548101088641618
-Kidney disease,Female,19_30,sedentary,"chicken breast, boneless",15.570505899286388,1557.0505899286388
-Kidney disease,Female,19_30,sedentary,low-fat milk,9.558899506530299,955.8899506530299
-Kidney disease,Female,19_30,sedentary,"Pinto beans, dried",0.6832494950886421,68.32494950886421
-Kidney disease,Female,19_30,sedentary,"chicken legs, bone-in",0.5737002819772408,57.370028197724075
-Kidney disease,Female,19_30,sedentary,"Pineapple, fresh",0.5454257180648348,54.54257180648347
-Kidney disease,Female,19_30,sedentary,acorn squash,0.49065462838249063,49.06546283824906
-Kidney disease,Female,19_30,sedentary,cheddar cheese,0.3976104267873771,39.76104267873771
-Kidney disease,Female,19_30,sedentary,whole wheat bread,0.017198647055472586,1.7198647055472587
-Kidney disease,Female,19_30,moderate,"chicken breast, boneless",15.570505899286388,1557.0505899286388
-Kidney disease,Female,19_30,moderate,low-fat milk,9.558899506530299,955.8899506530299
-Kidney disease,Female,19_30,moderate,"Pinto beans, dried",0.6832494950886421,68.32494950886421
-Kidney disease,Female,19_30,moderate,"chicken legs, bone-in",0.5737002819772408,57.370028197724075
-Kidney disease,Female,19_30,moderate,"Pineapple, fresh",0.5454257180648348,54.54257180648347
-Kidney disease,Female,19_30,moderate,acorn squash,0.49065462838249063,49.06546283824906
-Kidney disease,Female,19_30,moderate,cheddar cheese,0.3976104267873771,39.76104267873771
-Kidney disease,Female,19_30,moderate,whole wheat bread,0.017198647055472586,1.7198647055472587
-Kidney disease,Female,19_30,active,"chicken breast, boneless",15.570505899286388,1557.0505899286388
-Kidney disease,Female,19_30,active,low-fat milk,9.558899506530299,955.8899506530299
-Kidney disease,Female,19_30,active,"Pinto beans, dried",0.6832494950886421,68.32494950886421
-Kidney disease,Female,19_30,active,"chicken legs, bone-in",0.5737002819772408,57.370028197724075
-Kidney disease,Female,19_30,active,"Pineapple, fresh",0.5454257180648348,54.54257180648347
-Kidney disease,Female,19_30,active,acorn squash,0.49065462838249063,49.06546283824906
-Kidney disease,Female,19_30,active,cheddar cheese,0.3976104267873771,39.76104267873771
-Kidney disease,Female,19_30,active,whole wheat bread,0.017198647055472586,1.7198647055472587
-Kidney disease,Male,19_30,sedentary,low-fat milk,11.347531349940253,1134.7531349940252
-Kidney disease,Male,19_30,sedentary,"chicken legs, bone-in",3.1535197604059215,315.35197604059215
-Kidney disease,Male,19_30,sedentary,cheddar cheese,1.186233782256784,118.62337822567841
-Kidney disease,Male,19_30,sedentary,"Pinto beans, dried",0.7365453549678562,73.65453549678563
-Kidney disease,Male,19_30,sedentary,"Pineapple, fresh",0.6445483920119857,64.45483920119857
-Kidney disease,Male,19_30,sedentary,whole wheat bread,0.6432837675394989,64.3283767539499
-Kidney disease,Male,19_30,sedentary,"Clementines, fresh",0.3147380685429725,31.473806854297248
-Kidney disease,Male,19_30,sedentary,rice long grain,0.20487030296179412,20.487030296179412
-Kidney disease,Male,19_30,moderate,low-fat milk,11.35145201360729,1135.145201360729
-Kidney disease,Male,19_30,moderate,"chicken legs, bone-in",2.975155604774567,297.5155604774567
-Kidney disease,Male,19_30,moderate,cheddar cheese,1.2008244702153295,120.08244702153294
-Kidney disease,Male,19_30,moderate,whole wheat bread,1.0703524996225158,107.03524996225158
-Kidney disease,Male,19_30,moderate,"Pinto beans, dried",0.7398611182413999,73.98611182413998
-Kidney disease,Male,19_30,moderate,"Pineapple, fresh",0.6459790427990145,64.59790427990146
-Kidney disease,Male,19_30,moderate,rice long grain,0.2967819008225314,29.678190082253142
-Kidney disease,Male,19_30,moderate,"Clementines, fresh",0.2716906689814355,27.16906689814355
-Kidney disease,Male,19_30,active,low-fat milk,11.355372677274318,1135.5372677274318
-Kidney disease,Male,19_30,active,"chicken legs, bone-in",2.7967914491437567,279.6791449143757
-Kidney disease,Male,19_30,active,whole wheat bread,1.4974212317053877,149.74212317053878
-Kidney disease,Male,19_30,active,cheddar cheese,1.2154151581738264,121.54151581738265
-Kidney disease,Male,19_30,active,"Pinto beans, dried",0.7431768815149692,74.31768815149692
-Kidney disease,Male,19_30,active,"Pineapple, fresh",0.6474096935860505,64.74096935860504
-Kidney disease,Male,19_30,active,rice long grain,0.3886934986834436,38.86934986834436
-Kidney disease,Male,19_30,active,"Clementines, fresh",0.22864326941974739,22.86432694197474
-Kidney disease,Male,31_50,sedentary,low-fat milk,10.504114434024883,1050.4114434024882
-Kidney disease,Male,31_50,sedentary,"chicken breast, boneless",7.125666410819627,712.5666410819628
-Kidney disease,Male,31_50,sedentary,"chicken legs, bone-in",3.524804428886414,352.4804428886414
-Kidney disease,Male,31_50,sedentary,"Pinto beans, dried",0.7551345871828841,75.5134587182884
-Kidney disease,Male,31_50,sedentary,cheddar cheese,0.6860543934639701,68.605439346397
-Kidney disease,Male,31_50,sedentary,"Pineapple, fresh",0.65635390558984,65.635390558984
-Kidney disease,Male,31_50,sedentary,acorn squash,0.40606463862089,40.606463862089
-Kidney disease,Male,31_50,sedentary,whole wheat bread,0.021934528752185913,2.193452875218591
-Kidney disease,Male,31_50,moderate,low-fat milk,10.504114434024883,1050.4114434024882
-Kidney disease,Male,31_50,moderate,"chicken breast, boneless",7.125666410819627,712.5666410819628
-Kidney disease,Male,31_50,moderate,"chicken legs, bone-in",3.524804428886414,352.4804428886414
-Kidney disease,Male,31_50,moderate,"Pinto beans, dried",0.7551345871828841,75.5134587182884
-Kidney disease,Male,31_50,moderate,cheddar cheese,0.6860543934639701,68.605439346397
-Kidney disease,Male,31_50,moderate,"Pineapple, fresh",0.65635390558984,65.635390558984
-Kidney disease,Male,31_50,moderate,acorn squash,0.40606463862089,40.606463862089
-Kidney disease,Male,31_50,moderate,whole wheat bread,0.021934528752185913,2.193452875218591
-Kidney disease,Male,31_50,active,low-fat milk,10.504114434024883,1050.4114434024882
-Kidney disease,Male,31_50,active,"chicken breast, boneless",7.125666410819627,712.5666410819628
-Kidney disease,Male,31_50,active,"chicken legs, bone-in",3.524804428886414,352.4804428886414
-Kidney disease,Male,31_50,active,"Pinto beans, dried",0.7551345871828841,75.5134587182884
-Kidney disease,Male,31_50,active,cheddar cheese,0.6860543934639701,68.605439346397
-Kidney disease,Male,31_50,active,"Pineapple, fresh",0.65635390558984,65.635390558984
-Kidney disease,Male,31_50,active,acorn squash,0.40606463862089,40.606463862089
-Kidney disease,Male,31_50,active,whole wheat bread,0.021934528752185913,2.193452875218591
-Kidney disease,Male,51U,sedentary,"chicken breast, boneless",15.40695826436706,1540.6958264367058
-Kidney disease,Male,51U,sedentary,low-fat milk,9.543221449953782,954.3221449953782
-Kidney disease,Male,51U,sedentary,"chicken legs, bone-in",2.598456426006555,259.8456426006555
-Kidney disease,Male,51U,sedentary,"Pinto beans, dried",0.6735399173389058,67.35399173389058
-Kidney disease,Male,51U,sedentary,"Pineapple, fresh",0.6582896524521663,65.82896524521664
-Kidney disease,Male,51U,sedentary,acorn squash,0.48354362581233507,48.35436258123351
-Kidney disease,Male,51U,sedentary,cheddar cheese,0.22988551620154968,22.98855162015497
-Kidney disease,Male,51U,sedentary,whole wheat bread,0.015060796798829318,1.506079679882932
-Kidney disease,Male,51U,moderate,"chicken breast, boneless",15.40695826436706,1540.6958264367058
-Kidney disease,Male,51U,moderate,low-fat milk,9.543221449953782,954.3221449953782
-Kidney disease,Male,51U,moderate,"chicken legs, bone-in",2.598456426006555,259.8456426006555
-Kidney disease,Male,51U,moderate,"Pinto beans, dried",0.6735399173389058,67.35399173389058
-Kidney disease,Male,51U,moderate,"Pineapple, fresh",0.6582896524521663,65.82896524521664
-Kidney disease,Male,51U,moderate,acorn squash,0.48354362581233507,48.35436258123351
-Kidney disease,Male,51U,moderate,cheddar cheese,0.22988551620154968,22.98855162015497
-Kidney disease,Male,51U,moderate,whole wheat bread,0.015060796798829318,1.506079679882932
-Kidney disease,Male,51U,active,"chicken breast, boneless",15.40695826436706,1540.6958264367058
-Kidney disease,Male,51U,active,low-fat milk,9.543221449953782,954.3221449953782
-Kidney disease,Male,51U,active,"chicken legs, bone-in",2.598456426006555,259.8456426006555
-Kidney disease,Male,51U,active,"Pinto beans, dried",0.6735399173389058,67.35399173389058
-Kidney disease,Male,51U,active,"Pineapple, fresh",0.6582896524521663,65.82896524521664
-Kidney disease,Male,51U,active,acorn squash,0.48354362581233507,48.35436258123351
-Kidney disease,Male,51U,active,cheddar cheese,0.22988551620154968,22.98855162015497
-Kidney disease,Male,51U,active,whole wheat bread,0.015060796798829318,1.506079679882932
+Diabetes,Male,19_30,sedentary,low-fat milk,7.349590326983296,734.9590326983296
+Diabetes,Male,19_30,sedentary,"chicken breast, boneless",1.660995862537346,166.0995862537346
+Diabetes,Male,19_30,sedentary,cheddar cheese,1.469122538730465,146.9122538730465
+Diabetes,Male,19_30,sedentary,"Pinto beans, dried",0.6243679641819527,62.43679641819527
+Diabetes,Male,19_30,sedentary,acorn squash,0.608667907764854,60.8667907764854
+Diabetes,Male,19_30,sedentary,rice long grain,0.5353918457975769,53.539184579757695
+Diabetes,Male,19_30,sedentary,"Pineapple, fresh",0.4588765982199832,45.88765982199832
+Diabetes,Male,19_30,sedentary,"steak, sirloin",0.22994754272270831,22.994754272270832
+Diabetes,Male,19_30,sedentary,"Turnip greens, fresh",0.20479995644211363,20.479995644211364
+Diabetes,Male,19_30,sedentary,whole wheat bread,0.08854332766413518,8.854332766413519
+Diabetes,Male,19_30,sedentary,"chicken legs, bone-in",0.03087395982886452,3.087395982886452
+Diabetes,Male,19_30,moderate,low-fat milk,7.349334326009051,734.9334326009051
+Diabetes,Male,19_30,moderate,"chicken breast, boneless",1.6961428545029216,169.61428545029216
+Diabetes,Male,19_30,moderate,cheddar cheese,1.4631111774714034,146.31111774714034
+Diabetes,Male,19_30,moderate,acorn squash,1.2681051901123348,126.81051901123348
+Diabetes,Male,19_30,moderate,"Pinto beans, dried",0.6196947332444397,61.96947332444397
+Diabetes,Male,19_30,moderate,rice long grain,0.5342745781282808,53.42745781282808
+Diabetes,Male,19_30,moderate,"Pineapple, fresh",0.4515881908452432,45.15881908452432
+Diabetes,Male,19_30,moderate,"steak, sirloin",0.2477017816429142,24.77017816429142
+Diabetes,Male,19_30,moderate,"Turnip greens, fresh",0.196276216949571,19.6276216949571
+Diabetes,Male,19_30,moderate,whole wheat bread,0.0883817071500806,8.83817071500806
+Diabetes,Male,19_30,moderate,"Cucumbers, fresh",0.05406377587696033,5.406377587696033
+Diabetes,Male,19_30,active,low-fat milk,7.345374678492499,734.5374678492499
+Diabetes,Male,19_30,active,acorn squash,1.935437669161499,193.5437669161499
+Diabetes,Male,19_30,active,"chicken breast, boneless",1.7308629799142417,173.08629799142417
+Diabetes,Male,19_30,active,cheddar cheese,1.4619259353390888,146.19259353390888
+Diabetes,Male,19_30,active,"Pinto beans, dried",0.5841129789173897,58.41129789173897
+Diabetes,Male,19_30,active,"Cucumbers, fresh",0.5266390653819202,52.663906538192016
+Diabetes,Male,19_30,active,rice long grain,0.524100291473552,52.410029147355196
+Diabetes,Male,19_30,active,"Pineapple, fresh",0.3878506128142332,38.785061281423324
+Diabetes,Male,19_30,active,"steak, sirloin",0.23644448020972825,23.644448020972824
+Diabetes,Male,19_30,active,"Turnip greens, fresh",0.16752518343961342,16.75251834396134
+Diabetes,Male,19_30,active,whole wheat bread,0.08633869210063815,8.633869210063814
+Celiac,Female,19_30,sedentary,low-fat milk,12.314497842208903,1231.4497842208903
+Celiac,Female,19_30,sedentary,"Tomatoes, canned",1.2439185928651098,124.39185928651098
+Celiac,Female,19_30,sedentary,"Pinto beans, dried",1.1442469515503326,114.42469515503326
+Celiac,Female,19_30,sedentary,"Green beans, frozen",0.8454946695111567,84.54946695111568
+Celiac,Female,19_30,sedentary,rice long grain,0.7530643029467617,75.30643029467618
+Celiac,Female,19_30,sedentary,american cheese,0.535036554470841,53.5036554470841
+Celiac,Female,19_30,sedentary,"Pineapple, fresh",0.17060898568499078,17.060898568499077
+Celiac,Female,19_30,moderate,low-fat milk,12.339255181910584,1233.9255181910585
+Celiac,Female,19_30,moderate,rice long grain,1.887461096416019,188.7461096416019
+Celiac,Female,19_30,moderate,"Pinto beans, dried",1.0939523533441176,109.39523533441175
+Celiac,Female,19_30,moderate,"Tomatoes, canned",1.038391904672539,103.8391904672539
+Celiac,Female,19_30,moderate,"Green beans, frozen",0.7034410539333836,70.34410539333837
+Celiac,Female,19_30,moderate,american cheese,0.5220557092062363,52.205570920623636
+Celiac,Female,19_30,moderate,"Pineapple, fresh",0.23166418200746514,23.166418200746513
+Celiac,Female,19_30,active,low-fat milk,12.364012521612263,1236.4012521612262
+Celiac,Female,19_30,active,rice long grain,3.0218578898852764,302.18578898852763
+Celiac,Female,19_30,active,"Pinto beans, dried",1.0436577551379027,104.36577551379027
+Celiac,Female,19_30,active,"Tomatoes, canned",0.8328652164799696,83.28652164799696
+Celiac,Female,19_30,active,"Green beans, frozen",0.5613874383556107,56.138743835561066
+Celiac,Female,19_30,active,american cheese,0.5090748639416317,50.90748639416317
+Celiac,Female,19_30,active,"Pineapple, fresh",0.2927193783299325,29.27193783299325
+Celiac,Female,31_50,sedentary,low-fat milk,12.298062791552383,1229.8062791552384
+Celiac,Female,31_50,sedentary,"Tomatoes, canned",1.3803565774149036,138.03565774149035
+Celiac,Female,31_50,sedentary,"Pinto beans, dried",1.1776347985172837,117.76347985172836
+Celiac,Female,31_50,sedentary,"Green beans, frozen",0.9397963350412455,93.97963350412455
+Celiac,Female,31_50,sedentary,american cheese,0.5436538312889052,54.36538312889052
+Celiac,Female,31_50,sedentary,"Pineapple, fresh",0.13007776316694156,13.007776316694155
+Celiac,Female,31_50,moderate,low-fat milk,12.320274554805962,1232.0274554805962
+Celiac,Female,31_50,moderate,"Tomatoes, canned",1.1959623656201759,119.5962365620176
+Celiac,Female,31_50,moderate,"Pinto beans, dried",1.1325115453022163,113.25115453022163
+Celiac,Female,31_50,moderate,rice long grain,1.0177568880895873,101.77568880895873
+Celiac,Female,31_50,moderate,"Green beans, frozen",0.8123488258763435,81.23488258763435
+Celiac,Female,31_50,moderate,american cheese,0.5320076905757665,53.20076905757665
+Celiac,Female,31_50,moderate,"Pineapple, fresh",0.18485519816024062,18.485519816024063
+Celiac,Female,31_50,active,low-fat milk,12.342556160537475,1234.2556160537474
+Celiac,Female,31_50,active,rice long grain,2.038714002211919,203.8714002211919
+Celiac,Female,31_50,active,"Pinto beans, dried",1.087246406916622,108.72464069166222
+Celiac,Female,31_50,active,"Tomatoes, canned",1.010988346246864,101.0988346246864
+Celiac,Female,31_50,active,"Green beans, frozen",0.6845005718563472,68.45005718563472
+Celiac,Female,31_50,active,american cheese,0.5203249298376225,52.032492983762246
+Celiac,Female,31_50,active,"Pineapple, fresh",0.23980487485046403,23.980487485046403
+Celiac,Female,51U,sedentary,low-fat milk,12.329313352562735,1232.9313352562735
+Celiac,Female,51U,sedentary,"Tomatoes, canned",1.3798669733873172,137.98669733873172
+Celiac,Female,51U,sedentary,"Pinto beans, dried",1.1981511532859412,119.81511532859412
+Celiac,Female,51U,sedentary,"Green beans, frozen",0.7519573698677767,75.19573698677767
+Celiac,Female,51U,sedentary,american cheese,0.5443250295116413,54.43250295116413
+Celiac,Female,51U,sedentary,"Pineapple, fresh",0.13033413215113643,13.033413215113644
+Celiac,Female,51U,moderate,low-fat milk,12.337433571356272,1233.743357135627
+Celiac,Female,51U,moderate,"Tomatoes, canned",1.3124557855882701,131.24557855882702
+Celiac,Female,51U,moderate,"Pinto beans, dried",1.1816549082738081,118.16549082738081
+Celiac,Female,51U,moderate,"Green beans, frozen",0.7053648662787808,70.53648662787808
+Celiac,Female,51U,moderate,american cheese,0.5400674111671923,54.006741116719226
+Celiac,Female,51U,moderate,rice long grain,0.3720735051768141,37.20735051768141
+Celiac,Female,51U,moderate,"Pineapple, fresh",0.15035977135934764,15.035977135934765
+Celiac,Female,51U,active,low-fat milk,12.357239443117614,1235.7239443117614
+Celiac,Female,51U,active,rice long grain,1.2795909399522212,127.95909399522212
+Celiac,Female,51U,active,"Tomatoes, canned",1.148034435034214,114.80344350342139
+Celiac,Female,51U,active,"Pinto beans, dried",1.1414192297088355,114.14192297088354
+Celiac,Female,51U,active,"Green beans, frozen",0.5917219738165619,59.17219738165619
+Celiac,Female,51U,active,american cheese,0.5296827349555087,52.96827349555087
+Celiac,Female,51U,active,"Pineapple, fresh",0.1992039284173341,19.92039284173341
+Celiac,Male,19_30,sedentary,low-fat milk,12.23179090109544,1223.179090109544
+Celiac,Male,19_30,sedentary,"Tomatoes, canned",2.2380604337199013,223.8060433719901
+Celiac,Male,19_30,sedentary,"Green beans, frozen",1.1755134506707443,117.55134506707444
+Celiac,Male,19_30,sedentary,"Pinto beans, dried",1.0956693025669617,109.56693025669617
+Celiac,Male,19_30,sedentary,american cheese,0.8674822855132315,86.74822855132315
+Celiac,Male,19_30,sedentary,"black beans, canned",0.545100483298937,54.5100483298937
+Celiac,Male,19_30,sedentary,"Pineapple, fresh",0.1238380699526374,12.38380699526374
+Celiac,Male,19_30,moderate,low-fat milk,12.181088897892776,1218.1088897892776
+Celiac,Male,19_30,moderate,"black beans, canned",1.6602874647156443,166.02874647156443
+Celiac,Male,19_30,moderate,"Green beans, frozen",1.6228550802765764,162.28550802765764
+Celiac,Male,19_30,moderate,"Tomatoes, canned",1.4587750056267275,145.87750056267274
+Celiac,Male,19_30,moderate,"Pinto beans, dried",1.0348917321190114,103.48917321190115
+Celiac,Male,19_30,moderate,american cheese,0.5812230647335301,58.122306473353014
+Celiac,Male,19_30,moderate,rice long grain,0.4202843663712321,42.028436637123214
+Celiac,Male,19_30,moderate,"Pineapple, fresh",0.21975426765491127,21.975426765491125
+Celiac,Male,19_30,active,low-fat milk,12.244352423466601,1224.43524234666
+Celiac,Male,19_30,active,rice long grain,2.1751908382319947,217.51908382319948
+Celiac,Male,19_30,active,"Tomatoes, canned",1.4405598805287563,144.05598805287562
+Celiac,Male,19_30,active,"Green beans, frozen",1.1946932192478716,119.46932192478717
+Celiac,Male,19_30,active,"black beans, canned",1.192709475364549,119.27094753645491
+Celiac,Male,19_30,active,"Pinto beans, dried",0.9787516314754486,97.87516314754487
+Celiac,Male,19_30,active,american cheese,0.6783844799050603,67.83844799050604
+Celiac,Male,19_30,active,"Pineapple, fresh",0.22600934022217664,22.600934022217665
+Celiac,Male,31_50,sedentary,low-fat milk,12.261042428064899,1226.10424280649
+Celiac,Male,31_50,sedentary,"Tomatoes, canned",2.5822765773451835,258.22765773451835
+Celiac,Male,31_50,sedentary,"Pinto beans, dried",1.1166941217283164,111.66941217283164
+Celiac,Male,31_50,sedentary,american cheese,1.004972978262836,100.4972978262836
+Celiac,Male,31_50,sedentary,"Green beans, frozen",0.9312589424791851,93.12589424791851
+Celiac,Male,31_50,sedentary,"Pineapple, fresh",0.08189809220607433,8.189809220607433
+Celiac,Male,31_50,moderate,low-fat milk,12.200522015028577,1220.0522015028578
+Celiac,Male,31_50,moderate,"Tomatoes, canned",1.8701050996742243,187.01050996742242
+Celiac,Male,31_50,moderate,"Green beans, frozen",1.4366132009823565,143.66132009823565
+Celiac,Male,31_50,moderate,"black beans, canned",1.127794334634003,112.7794334634003
+Celiac,Male,31_50,moderate,"Pinto beans, dried",1.0731944869575352,107.31944869575352
+Celiac,Male,31_50,moderate,american cheese,0.7205094176923501,72.05094176923501
+Celiac,Male,31_50,moderate,"Pineapple, fresh",0.16867047775046676,16.867047775046675
+Celiac,Male,31_50,active,low-fat milk,12.19866209944106,1219.866209944106
+Celiac,Male,31_50,active,"black beans, canned",1.5304046898958943,153.04046898958944
+Celiac,Male,31_50,active,"Green beans, frozen",1.5039212299908247,150.39212299908246
+Celiac,Male,31_50,active,"Tomatoes, canned",1.4537152486550693,145.37152486550693
+Celiac,Male,31_50,active,"Pinto beans, dried",1.0192972597180219,101.92972597180218
+Celiac,Male,31_50,active,rice long grain,0.9077583863325561,90.77583863325562
+Celiac,Male,31_50,active,american cheese,0.6082123467256221,60.821234672562206
+Celiac,Male,31_50,active,"Pineapple, fresh",0.2214917878124849,22.14917878124849
+Celiac,Male,51U,sedentary,low-fat milk,12.35479166747175,1235.479166747175
+Celiac,Male,51U,sedentary,"Tomatoes, canned",2.5808935016298293,258.08935016298295
+Celiac,Male,51U,sedentary,"Pinto beans, dried",1.1783128097969309,117.83128097969309
+Celiac,Male,51U,sedentary,american cheese,1.0069732553268738,100.69732553268737
+Celiac,Male,51U,sedentary,"Green beans, frozen",0.3677633675060689,36.776336750606895
+Celiac,Male,51U,sedentary,"Pineapple, fresh",0.08166576805090499,8.166576805090498
+Celiac,Male,51U,moderate,low-fat milk,12.306844252448935,1230.6844252448934
+Celiac,Male,51U,moderate,"Tomatoes, canned",2.016674262299665,201.6674262299665
+Celiac,Male,51U,moderate,"Pinto beans, dried",1.1438501394836316,114.38501394836315
+Celiac,Male,51U,moderate,"black beans, canned",0.8934972567127483,89.34972567127483
+Celiac,Male,51U,moderate,american cheese,0.7816064457951044,78.16064457951045
+Celiac,Male,51U,moderate,"Green beans, frozen",0.7681312624088412,76.81312624088412
+Celiac,Male,51U,moderate,"Pineapple, fresh",0.1504113593891485,15.041135938914852
+Celiac,Male,51U,active,low-fat milk,12.27878621137328,1227.878621137328
+Celiac,Male,51U,active,"black beans, canned",1.6256971739113513,162.56971739113513
+Celiac,Male,51U,active,"Tomatoes, canned",1.4620558472526377,146.20558472526378
+Celiac,Male,51U,active,"Pinto beans, dried",1.093779729301996,109.37797293019959
+Celiac,Male,51U,active,"Green beans, frozen",1.031877973405783,103.1877973405783
+Celiac,Male,51U,active,american cheese,0.5908095167090639,59.08095167090639
+Celiac,Male,51U,active,rice long grain,0.5164550401597375,51.645504015973756
+Celiac,Male,51U,active,"Pineapple, fresh",0.21917484336315185,21.917484336315184
+Kidney disease,Female,19_30,sedentary,low-fat milk,8.996483592293663,899.6483592293663
+Kidney disease,Female,19_30,sedentary,cheddar cheese,0.8591019249320943,85.91019249320942
+Kidney disease,Female,19_30,sedentary,"Green beans, frozen",0.7032074954884318,70.32074954884318
+Kidney disease,Female,19_30,sedentary,grade A eggs,0.7027018076526388,70.27018076526387
+Kidney disease,Female,19_30,sedentary,"Pinto beans, dried",0.4585208019849213,45.85208019849213
+Kidney disease,Female,19_30,sedentary,"Pineapple, fresh",0.43378379805154615,43.378379805154616
+Kidney disease,Female,19_30,sedentary,acorn squash,0.34227370586246353,34.22737058624635
+Kidney disease,Female,19_30,sedentary,whole wheat bread,0.3164583561791658,31.64583561791658
+Kidney disease,Female,19_30,sedentary,"blackeye peas, dried",0.1626671818082946,16.26671818082946
+Kidney disease,Female,19_30,sedentary,"chicken breast, boneless",0.046528673249892356,4.652867324989236
+Kidney disease,Female,19_30,moderate,low-fat milk,8.934121354186574,893.4121354186575
+Kidney disease,Female,19_30,moderate,acorn squash,0.9904112588836416,99.04112588836415
+Kidney disease,Female,19_30,moderate,cheddar cheese,0.9353643937574078,93.53643937574077
+Kidney disease,Female,19_30,moderate,"Green beans, frozen",0.8746826815753965,87.46826815753965
+Kidney disease,Female,19_30,moderate,grade A eggs,0.6237697442787823,62.37697442787823
+Kidney disease,Female,19_30,moderate,"Pinto beans, dried",0.43649523822928493,43.649523822928494
+Kidney disease,Female,19_30,moderate,"Pineapple, fresh",0.4337522030245427,43.375220302454274
+Kidney disease,Female,19_30,moderate,whole wheat bread,0.2664300388642179,26.64300388642179
+Kidney disease,Female,19_30,moderate,"blackeye peas, dried",0.11340469244429206,11.340469244429206
+Kidney disease,Female,19_30,moderate,"chicken breast, boneless",0.06390993283925345,6.3909932839253445
+Kidney disease,Female,19_30,active,low-fat milk,8.87175911607949,887.175911607949
+Kidney disease,Female,19_30,active,acorn squash,1.6385488119048184,163.85488119048185
+Kidney disease,Female,19_30,active,"Green beans, frozen",1.046157867662356,104.6157867662356
+Kidney disease,Female,19_30,active,cheddar cheese,1.0116268625827196,101.16268625827196
+Kidney disease,Female,19_30,active,grade A eggs,0.5448376809049291,54.483768090492916
+Kidney disease,Female,19_30,active,"Pineapple, fresh",0.43372060799753925,43.372060799753925
+Kidney disease,Female,19_30,active,"Pinto beans, dried",0.41446967447364874,41.44696744736488
+Kidney disease,Female,19_30,active,whole wheat bread,0.2164017215492705,21.64017215492705
+Kidney disease,Female,19_30,active,"chicken breast, boneless",0.08129119242861488,8.129119242861488
+Kidney disease,Female,19_30,active,"blackeye peas, dried",0.0641422030802906,6.41422030802906
+Kidney disease,Female,31_50,sedentary,low-fat milk,9.255475472161697,925.5475472161697
+Kidney disease,Female,31_50,sedentary,grade A eggs,1.1252197913289743,112.52197913289743
+Kidney disease,Female,31_50,sedentary,"Pinto beans, dried",0.5860539411332361,58.605394113323605
+Kidney disease,Female,31_50,sedentary,cheddar cheese,0.43257333182562513,43.25733318256251
+Kidney disease,Female,31_50,sedentary,"Pinto beans, canned",0.430934166582544,43.093416658254405
+Kidney disease,Female,31_50,sedentary,"corn, canned",0.393459628981308,39.3459628981308
+Kidney disease,Female,31_50,sedentary,whole wheat bread,0.334042536901063,33.4042536901063
+Kidney disease,Female,31_50,sedentary,"Green beans, frozen",0.2701275911565598,27.01275911565598
+Kidney disease,Female,31_50,sedentary,"Pineapple, fresh",0.1454725495259552,14.54725495259552
+Kidney disease,Female,31_50,sedentary,acorn squash,0.09392975405142734,9.392975405142733
+Kidney disease,Female,31_50,moderate,low-fat milk,9.235537539194105,923.5537539194105
+Kidney disease,Female,31_50,moderate,grade A eggs,1.1013670745642257,110.13670745642257
+Kidney disease,Female,31_50,moderate,acorn squash,0.6467588827774762,64.67588827774762
+Kidney disease,Female,31_50,moderate,"Pinto beans, canned",0.6434295654754383,64.34295654754382
+Kidney disease,Female,31_50,moderate,"Pinto beans, dried",0.5625258722203287,56.252587222032865
+Kidney disease,Female,31_50,moderate,cheddar cheese,0.4588982509523832,45.889825095238315
+Kidney disease,Female,31_50,moderate,"corn, canned",0.3766391367855356,37.66391367855356
+Kidney disease,Female,31_50,moderate,whole wheat bread,0.3215995813268182,32.15995813268182
+Kidney disease,Female,31_50,moderate,"Green beans, frozen",0.31899848642119066,31.899848642119068
+Kidney disease,Female,31_50,moderate,Bananas,0.07258165031254238,7.258165031254238
+Kidney disease,Female,31_50,moderate,"corn, frozen",0.04973159100255132,4.973159100255132
+Kidney disease,Female,31_50,active,low-fat milk,9.18392347635794,918.392347635794
+Kidney disease,Female,31_50,active,grade A eggs,1.2434495797176988,124.34495797176987
+Kidney disease,Female,31_50,active,acorn squash,1.1751692468327737,117.51692468327737
+Kidney disease,Female,31_50,active,"Pinto beans, canned",0.6141850888959051,61.418508889590505
+Kidney disease,Female,31_50,active,"Pinto beans, dried",0.5289262832932943,52.892628329329426
+Kidney disease,Female,31_50,active,cheddar cheese,0.4991433070312052,49.91433070312052
+Kidney disease,Female,31_50,active,"corn, canned",0.3737738608693776,37.37738608693776
+Kidney disease,Female,31_50,active,whole wheat bread,0.35345053735406623,35.34505373540662
+Kidney disease,Female,31_50,active,"corn, frozen",0.25855226202207804,25.855226202207803
+Kidney disease,Female,31_50,active,"Green beans, frozen",0.1634151007765416,16.34151007765416
+Kidney disease,Female,51U,sedentary,low-fat milk,8.930746922368384,893.0746922368384
+Kidney disease,Female,51U,sedentary,grade A eggs,1.0143881242572097,101.43881242572097
+Kidney disease,Female,51U,sedentary,cheddar cheese,0.9106990852057545,91.06990852057545
+Kidney disease,Female,51U,sedentary,"chicken legs, bone-in",0.5771926676987748,57.71926676987748
+Kidney disease,Female,51U,sedentary,"Pineapple, fresh",0.43546565284780375,43.54656528478038
+Kidney disease,Female,51U,sedentary,"Pinto beans, dried",0.37114848346053625,37.11484834605363
+Kidney disease,Female,51U,sedentary,acorn squash,0.17508092594269423,17.508092594269424
+Kidney disease,Female,51U,sedentary,whole wheat bread,0.11644087482809568,11.644087482809567
+Kidney disease,Female,51U,moderate,low-fat milk,8.915982608618298,891.5982608618299
+Kidney disease,Female,51U,moderate,grade A eggs,1.0705912786290988,107.05912786290988
+Kidney disease,Female,51U,moderate,cheddar cheese,0.9101662515647939,91.01662515647939
+Kidney disease,Female,51U,moderate,acorn squash,0.6539630879743573,65.39630879743574
+Kidney disease,Female,51U,moderate,"chicken legs, bone-in",0.5343473179808735,53.434731798087356
+Kidney disease,Female,51U,moderate,"Pineapple, fresh",0.4355773033221929,43.55773033221929
+Kidney disease,Female,51U,moderate,"Pinto beans, dried",0.3562776705308486,35.62776705308486
+Kidney disease,Female,51U,moderate,whole wheat bread,0.12454852620087252,12.454852620087252
+Kidney disease,Female,51U,active,low-fat milk,8.901218294868217,890.1218294868218
+Kidney disease,Female,51U,active,acorn squash,1.1328452500060227,113.28452500060226
+Kidney disease,Female,51U,active,grade A eggs,1.1267944330009854,112.67944330009854
+Kidney disease,Female,51U,active,cheddar cheese,0.9096334179238317,90.96334179238316
+Kidney disease,Female,51U,active,"chicken legs, bone-in",0.4915019682629795,49.15019682629795
+Kidney disease,Female,51U,active,"Pineapple, fresh",0.4356889537965821,43.568895379658215
+Kidney disease,Female,51U,active,"Pinto beans, dried",0.3414068576011575,34.14068576011575
+Kidney disease,Female,51U,active,whole wheat bread,0.1326561775736482,13.26561775736482
+Kidney disease,Male,19_30,sedentary,low-fat milk,8.27476562219086,827.476562219086
+Kidney disease,Male,19_30,sedentary,"Blackberries, fresh",3.0981210781542323,309.81210781542325
+Kidney disease,Male,19_30,sedentary,grade A eggs,1.5962184593525848,159.62184593525848
+Kidney disease,Male,19_30,sedentary,cheddar cheese,1.4085322711771127,140.85322711771127
+Kidney disease,Male,19_30,sedentary,"chicken breast, boneless",0.8205741278526799,82.05741278526799
+Kidney disease,Male,19_30,sedentary,"Cantaloupe, fresh",0.5836576739496707,58.36576739496707
+Kidney disease,Male,19_30,sedentary,whole wheat bread,0.4871223937054189,48.71223937054189
+Kidney disease,Male,19_30,sedentary,"Pineapple, canned in juice",0.467609209172821,46.7609209172821
+Kidney disease,Male,19_30,sedentary,"Pinto beans, dried",0.14638461876059938,14.638461876059939
+Kidney disease,Male,19_30,sedentary,"corn, frozen",0.08618336292786033,8.618336292786033
+Kidney disease,Male,19_30,moderate,low-fat milk,8.287811733578273,828.7811733578274
+Kidney disease,Male,19_30,moderate,grade A eggs,1.1431282083061787,114.31282083061787
+Kidney disease,Male,19_30,moderate,"Clementines, fresh",1.1306686956105165,113.06686956105165
+Kidney disease,Male,19_30,moderate,whole wheat bread,0.7935624791523708,79.35624791523708
+Kidney disease,Male,19_30,moderate,"Pineapple, fresh",0.4217401386534473,42.174013865344726
+Kidney disease,Male,19_30,moderate,"Pinto beans, dried",0.20373760266066004,20.373760266066004
+Kidney disease,Male,19_30,moderate,cheddar cheese,0.10819404042622398,10.819404042622399
+Kidney disease,Male,19_30,moderate,"blackeye peas, dried",0.06788911341988292,6.7889113419882925
+Kidney disease,Male,19_30,active,low-fat milk,8.31716325923585,831.7163259235849
+Kidney disease,Male,19_30,active,grade A eggs,1.1197999535024605,111.97999535024606
+Kidney disease,Male,19_30,active,"Clementines, fresh",1.1115188607294666,111.15188607294667
+Kidney disease,Male,19_30,active,whole wheat bread,1.0908075526054204,109.08075526054203
+Kidney disease,Male,19_30,active,"Pineapple, fresh",0.422302971123165,42.2302971123165
+Kidney disease,Male,19_30,active,"Pinto beans, dried",0.21054664436160742,21.054664436160742
+Kidney disease,Male,19_30,active,"blackeye peas, dried",0.09477421166088097,9.477421166088098
+Kidney disease,Male,19_30,active,cheddar cheese,0.07942678612888464,7.942678612888463
+Kidney disease,Male,31_50,sedentary,low-fat milk,8.377769359012733,837.7769359012733
+Kidney disease,Male,31_50,sedentary,grade A eggs,1.6805192475933417,168.05192475933416
+Kidney disease,Male,31_50,sedentary,cheddar cheese,1.3666365527665907,136.66365527665906
+Kidney disease,Male,31_50,sedentary,"Pinto beans, canned",0.7505416058811158,75.05416058811159
+Kidney disease,Male,31_50,sedentary,"Pinto beans, dried",0.5094418862044356,50.94418862044356
+Kidney disease,Male,31_50,sedentary,whole wheat bread,0.4727969804129166,47.27969804129166
+Kidney disease,Male,31_50,sedentary,"chicken breast, boneless",0.19305096963051716,19.305096963051717
+Kidney disease,Male,31_50,sedentary,"Cantaloupe, fresh",0.16866551229416368,16.86655122941637
+Kidney disease,Male,31_50,sedentary,acorn squash,0.0860487491637175,8.60487491637175
+Kidney disease,Male,31_50,sedentary,"Green beans, frozen",0.02942989365675131,2.9429893656751314
+Kidney disease,Male,31_50,moderate,low-fat milk,8.36091274514567,836.0912745145671
+Kidney disease,Male,31_50,moderate,grade A eggs,1.6889254589101592,168.8925458910159
+Kidney disease,Male,31_50,moderate,cheddar cheese,1.377763841811533,137.7763841811533
+Kidney disease,Male,31_50,moderate,acorn squash,0.7187942635700235,71.87942635700236
+Kidney disease,Male,31_50,moderate,"corn, frozen",0.6255340995987817,62.55340995987817
+Kidney disease,Male,31_50,moderate,"Pinto beans, canned",0.5766538141683892,57.665381416838926
+Kidney disease,Male,31_50,moderate,whole wheat bread,0.47658961513897685,47.65896151389769
+Kidney disease,Male,31_50,moderate,"Pinto beans, dried",0.4131653778728029,41.31653778728029
+Kidney disease,Male,31_50,moderate,"Cantaloupe, fresh",0.31249876299495954,31.249876299495956
+Kidney disease,Male,31_50,moderate,"chicken breast, boneless",0.2567353231537584,25.67353231537584
+Kidney disease,Male,31_50,active,low-fat milk,8.351584275299329,835.1584275299329
+Kidney disease,Male,31_50,active,grade A eggs,1.6690379660791665,166.90379660791666
+Kidney disease,Male,31_50,active,cheddar cheese,1.3827852484851,138.27852484851
+Kidney disease,Male,31_50,active,acorn squash,1.3523831861149898,135.23831861149898
+Kidney disease,Male,31_50,active,"corn, frozen",1.3113336482557572,131.1333648255757
+Kidney disease,Male,31_50,active,"Cantaloupe, fresh",0.4772366681667582,47.72366681667582
+Kidney disease,Male,31_50,active,whole wheat bread,0.47403835470264055,47.403835470264056
+Kidney disease,Male,31_50,active,"Pinto beans, canned",0.38285927526679037,38.28592752667904
+Kidney disease,Male,31_50,active,"chicken breast, boneless",0.3298847978627533,32.988479786275335
+Kidney disease,Male,31_50,active,"Pinto beans, dried",0.30867516844567444,30.867516844567444
+Kidney disease,Male,51U,sedentary,low-fat milk,8.643777255653728,864.3777255653728
+Kidney disease,Male,51U,sedentary,grade A eggs,1.757684431878354,175.7684431878354
+Kidney disease,Male,51U,sedentary,cheddar cheese,1.0271039116268723,102.71039116268723
+Kidney disease,Male,51U,sedentary,"Pineapple, fresh",0.5068808782051708,50.68808782051708
+Kidney disease,Male,51U,sedentary,"Pinto beans, dried",0.413849809510931,41.3849809510931
+Kidney disease,Male,51U,sedentary,whole wheat bread,0.39470336598129874,39.470336598129876
+Kidney disease,Male,51U,sedentary,Bananas,0.27210246497759444,27.210246497759442
+Kidney disease,Male,51U,sedentary,"Clementines, fresh",0.03504810103727685,3.5048101037276855
+Kidney disease,Male,51U,sedentary,"blackeye peas, dried",0.012770244678283228,1.277024467828323
+Kidney disease,Male,51U,moderate,low-fat milk,8.628136011985324,862.8136011985324
+Kidney disease,Male,51U,moderate,grade A eggs,1.7570002513544725,175.70002513544725
+Kidney disease,Male,51U,moderate,cheddar cheese,1.04826298341758,104.826298341758
+Kidney disease,Male,51U,moderate,acorn squash,0.5459765033229544,54.597650332295444
+Kidney disease,Male,51U,moderate,"Pineapple, fresh",0.504964000955359,50.4964000955359
+Kidney disease,Male,51U,moderate,whole wheat bread,0.43496199912783684,43.49619991278368
+Kidney disease,Male,51U,moderate,"Pinto beans, dried",0.40648810101553073,40.648810101553075
+Kidney disease,Male,51U,moderate,Bananas,0.31819093526889747,31.81909352688975
+Kidney disease,Male,51U,moderate,"blackeye peas, dried",0.028784646558161715,2.8784646558161717
+Kidney disease,Male,51U,moderate,"Clementines, fresh",0.004602011752967554,0.4602011752967554
+Kidney disease,Male,51U,active,low-fat milk,8.573649312827403,857.3649312827403
+Kidney disease,Male,51U,active,grade A eggs,1.678628620509187,167.8628620509187
+Kidney disease,Male,51U,active,acorn squash,1.1872551636428046,118.72551636428045
+Kidney disease,Male,51U,active,cheddar cheese,1.12437327395961,112.43732739596099
+Kidney disease,Male,51U,active,"Pineapple, fresh",0.49950953654421903,49.9509536544219
+Kidney disease,Male,51U,active,whole wheat bread,0.3952606020072654,39.52606020072654
+Kidney disease,Male,51U,active,Bananas,0.38740262996628005,38.740262996628005
+Kidney disease,Male,51U,active,"Pinto beans, dried",0.3835234032848825,38.352340328488246
+Kidney disease,Male,51U,active,"Green beans, frozen",0.141167149198964,14.1167149198964
+Kidney disease,Male,51U,active,"Pinto beans, canned",0.0017084422129445332,0.1708442212944533
